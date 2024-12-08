@@ -1,4 +1,4 @@
-# DVKSense
+# GVKSense
 source code for paper "Visual Knowledge-Aided Learning Framework for Cross-Task WiFi-Based Sensing"
 
 
